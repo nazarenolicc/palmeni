@@ -1,0 +1,11 @@
+body {background-color: red;}
+h1 {color:white}
+.colorete{color: white}
+h2 {color :white}
+
+body{background-image: url(../imagenes/goku.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+
+}
